@@ -1,1 +1,1 @@
-# Advanced_Embedded_Systems_Group_B5
+# Industrial Communication Standard 
